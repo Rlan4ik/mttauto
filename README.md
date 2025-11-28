@@ -29,3 +29,20 @@ mtt auto — это учебный ИТ-проект, предназначенн
 git clone https://github.com/Rlan4ik/mttauto.git  
 cd mttauto  
 pip install -r requirements.txt
+
+python app.py
+
+python init_db.py
+
+и наконец
+mttauto/
+├── app/                 — основной код приложения  
+│   ├── database/        — модули для работы с БД  
+│   ├── models/          — модели данных  
+│   ├── routes/          — обработчики API / маршруты  
+│   ├── utils/           — вспомогательные функции  
+│   └── app.py           — точка входа  
+├── tests/               — тесты (если будут)  
+├── assets/              — изображения, скриншоты (если нужны)  
+├── requirements.txt     — зависимости  
+├── README.md            — этот файл  
