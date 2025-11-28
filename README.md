@@ -35,6 +35,7 @@ python app.py
 python init_db.py
 
 и наконец
+
 mttauto/
 ├── app/                 — основной код приложения  
 │   ├── database/        — модули для работы с БД  
@@ -45,4 +46,4 @@ mttauto/
 ├── tests/               — тесты (если будут)  
 ├── assets/              — изображения, скриншоты (если нужны)  
 ├── requirements.txt     — зависимости  
-├── README.md            — этот файл  
+└── README.md            — этот файл  
