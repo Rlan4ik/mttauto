@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3.10+-blue">
+  <img src="https://img.shields.io/badge/flask-backend-green">
+  <img src="https://img.shields.io/badge/status-education%20project-orange">
+</p>
+
+
 Ирина Дмитриевна Здравствуйте 👋
 
 # mtt auto 🚗
