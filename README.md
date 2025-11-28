@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/python-3.10+-blue">
-  <img src="https://img.shields.io/badge/не-хочу-учится-хочу-жениться-green">
-  <img src="https://img.shields.io/badge/проект%20project-orange">
+  <img src="https://img.shields.io/badge/проект%20orange">
 </p>
 
 
