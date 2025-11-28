@@ -1,3 +1,6 @@
+from routes.cars import cars_blueprint
+app.register_blueprint(cars_blueprint)
+
 from flask import Flask
 
 app = Flask(__name__)
